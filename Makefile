@@ -1,6 +1,6 @@
 text-files = README.md CHANGELOG.md LICENSE.md
 
-bin: bin/npx.1 bin/package.json bin/node_modules $(text-files)
+bin: bin/hvn.1 bin/package.json bin/node_modules $(text-files)
 
 bin/%: $(text-files)
 	cp $(text-files) bin/
