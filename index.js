@@ -9,9 +9,9 @@ const parseArgs = require('./parse-args.js')
 const path = require('path')
 const which = promisify(require('which'))
 
-module.exports = npx
+module.exports = hvn2
 module.exports.parseArgs = parseArgs
-function npx (argv) {
+function hvn2 (argv) {
   const shell = argv['shell-auto-fallback']
   if (shell || shell === '') {
     const fallback = require('./auto-fallback.js')(
