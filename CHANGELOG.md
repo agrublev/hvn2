@@ -2,6 +2,51 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="24.0.0"></a>
+# [24.0.0](https://github.com/agrublev/hvn2/compare/v10.2.0...v24.0.0) (2018-09-22)
+
+
+### Bug Fixes
+
+* **platform:** drop node 4 and 7, add 9 and 10 ([b7c8b9f](https://github.com/agrublev/hvn2/commit/b7c8b9f))
+
+
+### BREAKING CHANGES
+
+* **platform:** node@4 and node@7 are no longer supported.
+
+
+
+<a name="23.0.0"></a>
+# [23.0.0](https://github.com/agrublev/hvn2/compare/v10.2.0...v23.0.0) (2018-09-22)
+
+
+### Bug Fixes
+
+* **platform:** drop node 4 and 7, add 9 and 10 ([b7c8b9f](https://github.com/agrublev/hvn2/commit/b7c8b9f))
+
+
+### BREAKING CHANGES
+
+* **platform:** node@4 and node@7 are no longer supported.
+
+
+
+<a name="22.0.0"></a>
+# [22.0.0](https://github.com/agrublev/hvn2/compare/v10.2.0...v22.0.0) (2018-09-22)
+
+
+### Bug Fixes
+
+* **platform:** drop node 4 and 7, add 9 and 10 ([b7c8b9f](https://github.com/agrublev/hvn2/commit/b7c8b9f))
+
+
+### BREAKING CHANGES
+
+* **platform:** node@4 and node@7 are no longer supported.
+
+
+
 <a name="21.0.0"></a>
 # [21.0.0](https://github.com/agrublev/hvn2/compare/v10.2.0...v21.0.0) (2018-09-22)
 
